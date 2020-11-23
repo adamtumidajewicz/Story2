@@ -1,2 +1,2 @@
 story become
-story end
+story ends
